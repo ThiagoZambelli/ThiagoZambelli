@@ -1,4 +1,4 @@
-![Alt text](giphy%20teclado.gif)
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="500" height="auto"/>
 
 <hr>
 
