@@ -26,7 +26,7 @@ Olá, me chamo Thiago Zambelli e sou um aspirante a programador apaixonado por t
 > - Eu amo aprender (além de ter muita facilidade para o mesmo);
 > - Amo ensinar;
 > - Adoro discursar ( principalmente para plateias );
-> - Criar coisas novas ou descobrir novas utilidades para coisas velhas e comigo mesmo;
+> - Criar coisas novas ou descobrir novas utilidades para coisas velhas é comigo mesmo;
 > - Sou uma enciclopédia humana para assuntos inuteis.
 
 
@@ -43,17 +43,3 @@ Olá, me chamo Thiago Zambelli e sou um aspirante a programador apaixonado por t
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoZambelli&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoZambelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-          
-          
-          
-          
-          
-
-
-          
-          
-
-
-
-
-
