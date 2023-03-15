@@ -1,6 +1,3 @@
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="500" height="auto"/>
-
-<hr>
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <div style="width: 50%; text-align: center;">
@@ -8,7 +5,7 @@
         <h2>Me chamo Thiago Zambelli</h2>
     </div>
     <div style="width: 50%;">
-        <img style="width: 100%;" src="octocat-1678332533004.png">
+        <img style="width: 100%;" src="eu.png">
     </div>    
 </div>
 
