@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="eu.png">
+<img align="right" width="50%" style="margin-top:-20px" src="eu.png">
 
 </br>
 </br>
@@ -9,7 +9,7 @@
  <h2 align="left">Me chamo Thiago Zambelli</h2>
  
   <a href="https://www.linkedin.com/in/thiagozambelli">
-    <img width="50%" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
