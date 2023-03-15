@@ -1,13 +1,23 @@
+<img align="right" width="250px" style="margin-top:-20px" src="eu.png">
 
-<div style="display: flex; align-items: center; justify-content: center; width: 100%;">
-    <div style="width: 50%; text-align: center;">
-        <h1>Bem-Vindo ao meu GitHub</h1>
-        <h2>Me chamo Thiago Zambelli</h2>
-    </div>
-    <div style="width: 50%;">
-        <img style="width: 50%;" src="eu.png">
-    </div>    
+</br>
+</br>
+
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Bem-Vindo ao meu GitHub</h1>
+ <h2 align="left">Me chamo Thiago Zambelli</h2>
+ 
+  <a href="https://www.linkedin.com/in/thiagozambelli">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
 </div>
+
+
+
+
+
+
 
 Olá, me chamo Thiago Zambelli e sou um aspirante a programador apaixonado por tecnologia. Estou entrando no mundo do Front-end com tudo que eu tenho.
 
