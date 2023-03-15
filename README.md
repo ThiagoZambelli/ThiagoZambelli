@@ -5,7 +5,7 @@
         <h2>Me chamo Thiago Zambelli</h2>
     </div>
     <div style="width: 50%;">
-        <img style="width: 100%;" src="eu.png">
+        <img style="width: 50%;" src="eu.png">
     </div>    
 </div>
 
