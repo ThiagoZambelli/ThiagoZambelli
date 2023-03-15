@@ -2,10 +2,18 @@
 
 <hr>
 
-## 👋 Bem-vindo ao meu GitHub !! 👋
+<div style="display: flex; align-items: center; justify-content: center;">
+    <div style="width: 50%; text-align: center;">
+        <h1>Bem-Vindo ao meu GitHub</h1>
+        <h2>Me chamo Thiago Zambelli</h2>
+    </div>
+    <div style="width: 50%;">
+        <img style="width: 100%;" src="octocat-1678332533004.png">
+    </div>    
+</div>
 
 Olá, me chamo Thiago Zambelli e sou um aspirante a programador apaixonado por tecnologia. Estou entrando no mundo do Front-end com tudo que eu tenho.
-![Alt text](octocat-1678332533004.png)
+
 
 >Coisas que me completam:
 > - Eu amo aprender (além de ter muita facilidade para o mesmo);
