@@ -1,5 +1,13 @@
 
-<div style="display: flex; align-items: center; justify-content: center;"><div style="width: 50%; text-align: center;"><h1>Bem-Vindo ao meu GitHub</h1><h2>Me chamo Thiago Zambelli</h2></div><div style="width: 50%;"><img style="width: 50%;" src="eu.png"></div></div>
+<div style="display: flex; align-items: center; justify-content: center; width: 100%;">
+    <div style="width: 50%; text-align: center;">
+        <h1>Bem-Vindo ao meu GitHub</h1>
+        <h2>Me chamo Thiago Zambelli</h2>
+    </div>
+    <div style="width: 50%;">
+        <img style="width: 50%;" src="eu.png">
+    </div>    
+</div>
 
 Olá, me chamo Thiago Zambelli e sou um aspirante a programador apaixonado por tecnologia. Estou entrando no mundo do Front-end com tudo que eu tenho.
 
