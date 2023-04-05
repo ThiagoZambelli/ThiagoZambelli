@@ -38,6 +38,12 @@ Olá, me chamo Thiago Zambelli e sou um aspirante a programador apaixonado por t
 
 <hr>
 
+## Estudando no momento:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="50" height="50"/>
+
+<hr>
+
 <div>
 <a href="https://github.com/ThiagoZambelli">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoZambelli&layout=compact&langs_count=7&theme=dracula"/>
