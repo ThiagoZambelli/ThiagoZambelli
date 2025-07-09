@@ -1,66 +1,28 @@
-<img align="right" width="50%" style="margin-top:-20px" src="eu.png">
-
-</br>
-</br>
-
-<div dsplay="inline-block">
- 
- <h1 align="left">Bem-Vindo ao meu GitHub</h1>
- <h2 align="left">Me chamo Thiago Zambelli</h2>
- 
-  <a href="https://www.linkedin.com/in/thiagozambelli">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
+<div id="header" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F8A255&width=435&lines=Eai%2C+voc%C3%AA!!+Pega+seu+cafe+e;Vamos+conversar+%3C+c%C3%B3digo+%3E+%3D+%7B+" alt="Typing SVG" /></a>
 </div>
 
+```python
+class Profile:
+  def __init__(self):
+    self.origin = "Brazil"
+    self.location = "Brazil, Cachoeirinha"
+    self.code = ["JavaScript", "React", "SQL", "Mongo", "TypeScript", "Node.JS"]
+    self.roles = ["Web Developer", "Data Scientist", "Designer", "Gamer"]
+    self.university = "UniRitter"
+    self.study = "Computer Science"
+    self.curiosities = "Always looking to write a new code or a new story"
 
-
-
-
-
-
-Olá, me chamo Thiago Zambelli e sou um aspirante a programador apaixonado por tecnologia. Estou entrando no mundo do Front-end com tudo que eu tenho.
-
-
->Coisas que me completam:
-> - Eu amo aprender (além de ter muita facilidade para o mesmo);
-> - Amo ensinar;
-> - Adoro discursar ( principalmente para plateias );
-> - Criar coisas novas ou descobrir novas utilidades para coisas velhas é comigo mesmo;
-> - Sou uma enciclopédia humana para assuntos inuteis.
-
-
-<hr>
-
-## Principais Tecnologias conhecidas até o momento:
-
-> <div style="display: flex; justify-content: space-between;">
-><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
-><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
-><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="40"/>
-><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="40"/>
-><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="40"/>
-><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="40"/>
-><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
-><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100" height="60"/>
-><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="100" height="60"/>
-><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="100" height="60"/>
-></div>
-
-
-<hr>
-
-## Meus principais Projetos:
-
-> ### [Memento:](https://memento-orpin.vercel.app/)
->Uma plataforma ireira, desenvolvida por mim, focada paras er um conjunto de ferramentas para jogadores de RPG.
- - #### Visão de Projeto -> Front-end feito com React, TypeScript, SASS, entre outras tecnologias, focando em desempenho, responsividade e código limpo. O back-end foi desenvolvido em Node.js e Express, conectando diretamente com um banco de dados MongoDB, e utiliza diversas outras tecnologias, como JWT, visando segurança e desempenho.
-
-
-<hr>
-
-<div>
-<a href="https://github.com/ThiagoZambelli">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoZambelli&layout=compact&langs_count=7&theme=dracula"/>
+thiagoZambelli = Profile()
+```
+<div align='center'>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-chi-blond.vercel.app?user=ThiagoZambelli&theme=elegant&hide_border=true" alt="GitHub Streak" /></a>
+</div>
+<div id="badges" align="center">
+  <h3>Do you want to know a little bit more about me?</br>
+  Here is the way: </h3> 
+  <a  target="_blank" href="https://www.linkedin.com/in/thiagozambelli/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>  
+  <a target="_blank" href="mailto:thiagozamoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
